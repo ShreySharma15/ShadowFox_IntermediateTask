@@ -43,11 +43,4 @@ Follow these steps to set up CarValueAI on your local machine.
 - 📦 pip package manager
 - 💻 Git installed
 
----
 
-### **Installation Steps**
-
-#### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/CarValueAI.git
-cd CarValueAI
