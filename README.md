@@ -6,7 +6,7 @@ Built with **Streamlit** and powered by a **Random Forest Regressor**, it provid
 ---
 
 ## 🌐 **Live Demo**
-👉 [**Try CarValueAI Now**](https://car-value-ai.streamlit.app/)  
+👉 [**CarValueAI**](https://car-value-ai.streamlit.app/)  
 
 Experience instant car price predictions right in your browser — no installation required!
 
